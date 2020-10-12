@@ -1,9 +1,9 @@
-[![Rest API Basics LOGO](https://cfe2-static.s3-us-west-2.amazonaws.com/media/cfe-blog/rest-api-basics-with-the-django-rest-framework/rest_api_basics_logo.jpg)](https://www.codingforentrepreneurs.com/blog/rest-api-basics-with-the-django-rest-framework/)
-
-# REST API Basics
 
 
-This is a basic, and rapid fire, guide on how to build a REST API with Django & Python. For much deeper depth and understanding, check out our new course on [REST API](https://kirr.co/rfqyre).
+
+
+
+
 
 
 ### Software
@@ -13,7 +13,7 @@ This is a basic, and rapid fire, guide on how to build a REST API with Django & 
 - Django Rest Framework JWT 1.11.0 (https://kirr.co/vpibmo)
 
 
-### Related Source Code: https://kirr.co/9gqpkg
+
 
 
 ### Initial Setup
